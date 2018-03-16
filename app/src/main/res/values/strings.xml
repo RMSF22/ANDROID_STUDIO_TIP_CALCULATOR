@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="textView_billAmountHint">Enter Amount</string>
+    <string name="seekBarPercent">0%</string>
+    <string name="tiplabel">Tip</string>
+    <string name="totalLabel">Total</string>
+    <string name="tipamountview">tipAmountView</string>
+    <string name="totalAmount">totalAmount</string>
+
+
+</resources>
